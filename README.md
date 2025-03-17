@@ -1,9 +1,8 @@
-# 💡 Projetos de Análise de Dados  
-
-Bem-vindo ao meu portfólio! Aqui estão alguns projetos desenvolvidos em **Power BI**, aplicados a diversos contextos de negócio ficticios. 
 <p align="center">
   <img src="capa.png" alt="Capa do Portfólio" width="800">
 </p>
+
+Bem-vindo ao meu portfólio! Aqui estão alguns projetos desenvolvidos em **Power BI**, aplicados a diversos contextos de negócio ficticios. 
 
 ## 📊 Projetos Power BI  
 📌 **[Análise de Vendas](./PowerBI/Projeto_1_Analise_Vendas/)**  
