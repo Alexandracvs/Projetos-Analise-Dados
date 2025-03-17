@@ -25,5 +25,5 @@ Bem-vindo ao meu portfólio! Aqui estão alguns projetos desenvolvidos em **Powe
 ---
 
 🚀 **Contato**:  
-📧 [E-mail](mailto:seuemail@email.com) | 🌎 [LinkedIn](https://www.linkedin.com/in/alexandra-vidal-2126a248/)  
+📧 [E-mail](mailto:alexaccv@gmail.com) | 🌎 [LinkedIn](https://www.linkedin.com/in/alexandra-vidal-2126a248/)  
 
