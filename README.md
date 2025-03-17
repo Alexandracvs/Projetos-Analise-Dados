@@ -1,6 +1,6 @@
-# 💡 Portfólio de Análise de Dados  
+# 💡 Projetos de Análise de Dados  
 
-Bem-vindo ao meu portfólio! Aqui estão alguns projetos desenvolvidos em **Power BI e Python**, aplicados a diversos contextos de negócio ficticios. 
+Bem-vindo ao meu portfólio! Aqui estão alguns projetos desenvolvidos em **Power BI**, aplicados a diversos contextos de negócio ficticios. 
 <p align="center">
   <img src="capa.png" alt="Capa do Portfólio" width="800">
 </p>
@@ -16,28 +16,14 @@ Bem-vindo ao meu portfólio! Aqui estão alguns projetos desenvolvidos em **Powe
    - Ferramentas: Power BI, DAX  
    - 🔗 [Acesse o projeto](./PowerBI/Projeto_2_Segmentacao_Clientes/)  
 
----
 
-## 🐍 Projetos Python  
-📌 **[Predição de Vendas](./Python/Projeto_1_Predicao_Vendas/)**  
-   - Objetivo: Criar um modelo preditivo de vendas  
-   - Ferramentas: Python, Pandas, Scikit-learn  
-   - 🔗 [Acesse o projeto](./Python/Projeto_1_Predicao_Vendas/)  
-
-📌 **[Análise de Sentimentos](./Python/Projeto_2_Analise_Sentimentos/)**  
-   - Objetivo: Analisar opiniões de clientes usando NLP  
-   - Ferramentas: Python, NLTK, WordCloud  
-   - 🔗 [Acesse o projeto](./Python/Projeto_2_Analise_Sentimentos/)  
-
----
 
 ## 🛠️ Tecnologias Utilizadas  
 - **Power BI** (DAX, SQL, Visualizações)  
-- **Python** (Pandas, Matplotlib, Machine Learning)  
-- **SQL** (PostgreSQL, MySQL)  
+- **SQL** ( MySQL)  
 
 ---
 
 🚀 **Contato**:  
-📧 [E-mail](mailto:seuemail@email.com) | 🌎 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+📧 [E-mail](mailto:seuemail@email.com) | 🌎 [LinkedIn](https://www.linkedin.com/in/alexandra-vidal-2126a248/)  
 
